@@ -17,4 +17,20 @@ The project structure is organized as follows:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone [https://github.com/your-username/your-repo.git](https://github.com/Amoghaananthu/Backup-camera-simulation-and-vehicle-detection.git)https://github.com/Amoghaananthu/Backup-camera-simulation-and-vehicle-detection.git
+
+2. **Navigate to the project directory:**
+
+    ```bash
+    cd Backup_camera_simulation
+    ```
+    
+### Usage
+
+1. **Run the simulation script:**
+
+    ```bash
+    python Backup camera.py
+    ```
+
+2. **Adjust the pinion angle using the trackbar to dynamically change the simulation.**
