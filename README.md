@@ -8,10 +8,9 @@ This project simulates a backup camera's view with a dynamic trajectory of rear 
 
 The project structure is organized as follows:
 
-- `project1_main.py`: The main script for simulating the backup camera view and overlaying the rear wheel trajectory.
-- `project1_utils.py`: Utility functions used in the simulation.
-- `project1_Video.mp4`: Input video file for the simulation.
-- `project1_output.avi`: Output video file with the overlaid trajectory.
+- `Backup camera.py`: The main script for simulating the backup camera view and overlaying the rear wheel trajectory.
+- `Video.mp4`: Input video file for the simulation.
+- `output.avi`: Output video file with the overlaid trajectory.
 
 ### Installation
 
