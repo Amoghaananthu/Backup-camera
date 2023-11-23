@@ -2,7 +2,7 @@
 
 ### Overview
 
-This project simulates a backup camera's view with a dynamic trajectory of rear wheels using a 10-second clip from a phone recording. The simulation involves making assumptions about steering geometry, vehicle dimensions, and overlaying the trajectory on the video. The goal is to test the application of knowledge in Advanced Driver Assistance Systems (ADAS) software development and vehicle dynamics while incorporating basic object classification.
+This project simulates a backup camera's view with a dynamic trajectory of rear wheels using a 10-second clip from a recording. The simulation involves making assumptions about steering geometry, vehicle dimensions, and overlaying the trajectory on the video.
 
 ### Project Structure
 
