@@ -64,7 +64,7 @@ The project structure is organized as follows:
 2. **Navigate to the project directory:**
 
     ```bash
-    cd vehicle Classification
+    cd Vehicle Classification
     ```
     
 ### Usage
