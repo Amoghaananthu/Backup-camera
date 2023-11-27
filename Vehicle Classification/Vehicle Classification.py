@@ -10,9 +10,10 @@
 # project = rf.workspace("roboflow-gw7yv").project("vehicles-openimages")
 # dataset = project.version(1).download("yolov8")
 ####################################################################################################################################
+#Comment all lines while installing Yolov8 and downloading the dataset. When ready to train model uncomment from here
 #training using Yolov8
 from ultralytics import YOLO
-# !yolo task=detect mode=train model=yolov8m.pt data=Vehicles-OpenImages.v1-416x416.yolov8/data.yaml epochs=25 imgsz=416 %while training
+!yolo task=detect mode=train model=yolov8m.pt data=Vehicles-OpenImages.v1-416x416.yolov8/data.yaml epochs=25 imgsz=416 #while training
 
 ####################################################################################################################################
 #Video validation
