@@ -17,7 +17,7 @@ from ultralytics import YOLO
 
 ####################################################################################################################################
 #Video validation
-model = YOLO('best.pt') #Copy the file from the runs/detect/train/weights to your main folder
+model = YOLO('Vehicle Classification.pt') #Copy the file from the runs/detect/train/weights to your main folder (should be called best.pt)
 source = 'Video1.mp4'
 # source = 'Video2.mp4'
 # source = 'Video3.avi'
