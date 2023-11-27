@@ -76,3 +76,7 @@ The project structure is organized as follows:
     ```
 
 2. **Make sure to comment the required lines while running the script (look at the Vehicle Classification.py file for more info).**
+
+3. **The trained model will be saved at ../runs/detect/train/weights from the folder the .py is located.**
+
+4. **The model I trained can be found at https://drive.google.com/file/d/1uwgVP0N_x-Qqv60VX35D-1r5U3n6ztvn/view?usp=sharing.**
